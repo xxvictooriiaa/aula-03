@@ -52,4 +52,14 @@ p{
     position: absolute;
     top: 40px;
     left: 40px;
+    z-index: -1;
+}
+#d5{
+    position: fixed;
+    top: 5px;
+    right: 50px;
+
+}
+.pink{
+    background-color: pink;
 }
